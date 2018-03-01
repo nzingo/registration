@@ -1,0 +1,4 @@
+django>=1.10,<2.0
+djangorestframework>=3.6.0
+django-rest-auth==0.9.3
+django-allauth>=0.24.1
